@@ -1,0 +1,5 @@
+data/negative/*
+data/test/*
+data/train/*
+data/val/*
+treinamento/*
