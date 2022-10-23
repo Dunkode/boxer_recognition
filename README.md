@@ -1,11 +1,11 @@
 
-# boxer_recognition
+# 🐶 boxer_recognition 
 
 #### Disciplina: Computação Gráfica
 
 #### Professor: Marcos Roberto dos Santos
 
-#### Alunos: Éderson Vidal Junior e Patrick Piccini
+#### Alunos: Éderson Vidal Junior e Patrick Berlatto Piccini
 
 ##
 
