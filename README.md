@@ -5,7 +5,7 @@
 
 #### Professor: Marcos Roberto dos Santos
 
-#### Alunos: Éderson Vidal Junior e Patrick Berlatto Piccini
+#### Alunos: Éderson Vidal Junior (1121721) e Patrick Berlatto Piccini (1120442)
 
 ##
 
